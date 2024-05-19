@@ -1,0 +1,298 @@
+{
+  "numberOfChords": [10,222],
+  "Chords": ["Am", "Asus2", "C", "CM7", "Dm7", "F", "F1st", "G", "Gadd4", "Gno5B"],
+  "Horizontal": {
+    "Am": [false,false,true,true,true,false],
+    "Asus2": [false,false,true,true,false,false],
+    "C": [false,true,true,false,true,false],
+    "CM7": [false,true,true,false,false,false],
+    "Dm7": [false,false,false,true,true,true],
+    "F": [false,false,true,true,true,false],
+    "F1st": [false,true,true,true,false,false],
+    "G": [true,true,false,false,false,true],
+    "Gadd4": [true,true,false,false,true,true],
+    "Gno5B": [false,true,false,false,false,false]
+  }, 
+  "Vertical": {
+    "Am": [0,0,1,1,0,0],
+    "Asus2": [0,0,1,1,0,0],
+    "C": [0,2,1,0,0,0],
+    "CM7": [0,2,1,0,0,0],
+    "Dm7": [0,0,0,1,0,0],
+    "F": [0,0,2,1,0,0],
+    "F1st": [0,2,2,1,0,0],
+    "G": [2,1,0,0,0,2],
+    "Gadd4": [2,1,0,0,0,2],
+    "Gno5B": [0,1,0,0,0,0]
+  }, 
+  "playedStrings": {
+    "Am": [0,1,2,2,2,1],
+    "Asus2": [0,1,2,2,1,1],
+    "C": [0,2,2,1,2,1],
+    "CM7": [0,2,2,1,1,1],
+    "Dm7": [0,0,1,2,2,2],
+    "F": [0,0,2,2,2,0],
+    "F1st": [2,2,2,2,2,2],
+    "G": [2,2,1,1,1,2],
+    "Gadd4": [2,2,1,1,2,2],
+    "Gno5B": [0,2,0,1,1,0]
+  }, 
+  "fingerNumber": {
+    "Am": [0,0,2,3,1,0],
+    "Asus2": [0,0,2,3,0,0],
+    "C": [0,3,2,0,1,0],
+    "CM7": [0,3,2,0,0,0],
+    "Dm7": [0,0,0,3,1,2],
+    "F": [0,0,3,2,1,0],
+    "F1st": [0,3,4,2,0,0],
+    "G": [3,2,0,0,0,4],
+    "Gadd4": [3,2,0,0,1,4],
+    "Gno5B": [0,2,0,0,0,0]
+  }, 
+  "Fret": {
+    "Am": [0,0],
+    "Asus2": [0,0],
+    "C": [0,0],
+    "CM7": [0,0],
+    "Dm7": [0,0],
+    "F": [0,0],
+    "F1st": [1,1],
+    "G": [0,0],
+    "Gadd4": [0,0],
+    "Gno5B": [0,0]
+  },  
+  "songProgression": [
+  {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "CM7",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 2320,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0, 1, 1, 0, 1],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 2000,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0, 1, 1, 0],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "CM7",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 920,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "CM7",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "Am",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "CM7",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 2320,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0, 1, 1, 0, 1],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 2000,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0, 1, 1, 0],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "CM7",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 2320,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0, 1, 1, 0, 1],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "F1st",
+      "timeChord": 2000,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0, 1, 1, 0],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 320,
+      "strumming": 0,
+      "drawingArrayValues": [1],
+      "sizeofDrawingArray": 6,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "C",
+      "timeChord": 960,
+      "strumming": 0,
+      "drawingArrayValues": [0, 0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["t"]
+    },
+    {
+      "Chord": "G",
+      "timeChord": 3880,
+      "strumming": 0,
+      "drawingArrayValues": [0],
+      "sizeofDrawingArray": 3,
+      "fingerPlucking": ["f"]
+    },
+    {
+      "Chord": "Asus2",
+      "timeChord": 4400,
+      "strumming": 1,
+      "drawingArrayValues": [3, 5, 4, 5, 3, 5, 4, 5, 3, 5, 4, 5],
+      "sizeofDrawingArray": 12,
+      "fingerPlucking": ["I", "R", "M", "R", "I", "R", "M", "R", "I", "R", "M", "R"]
+    },
+    {
+      "Chord": "Am",
+      "timeChord": 2000,
+      "strumming": 0,
+      "drawingArrayValues": [0],
+      "sizeofDrawingArray": 1,
+      "fingerPlucking": ["t"]
+    }
+  ]
+}
