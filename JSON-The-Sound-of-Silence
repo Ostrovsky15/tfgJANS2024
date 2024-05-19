@@ -1811,7 +1811,7 @@
       "timeChord": 960,
       "strumming": 0,
       "drawingArrayValues": [0, 0],
-      "sizeofDrawingArray": 3,
+      "sizeofDrawingArray": 2,
       "fingerPlucking": ["t"]
     },
     {
@@ -1819,8 +1819,8 @@
       "timeChord": 3880,
       "strumming": 0,
       "drawingArrayValues": [0],
-      "sizeofDrawingArray": 3,
-      "fingerPlucking": ["f"]
+      "sizeofDrawingArray": 1,
+      "fingerPlucking": ["t"]
     },
     {
       "Chord": "Asus2",
