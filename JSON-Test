@@ -1,5 +1,5 @@
 {
-  "numberOfChords": [10,222],
+  "numberOfChords": [10,29],
   "Chords": ["Am", "Asus2", "C", "CM7", "Dm7", "F", "F1st", "G", "Gadd4", "Gno5B"],
   "Horizontal": {
     "Am": [false,false,true,true,true,false],
