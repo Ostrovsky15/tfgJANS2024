@@ -1,0 +1,16 @@
+{
+  "currentMenu": [
+  {
+    "numberMenuOptions": ,
+    "menuBoolIndex": ,
+    "menuTitle": ,
+    "Options": ["The Sound of Silence", "Knocking on Heavens Door", ]
+  },
+  {
+    "numberMenuOptions": 4,
+    "menuBoolIndex": ,
+    "menuTitle": "Choose a speed",
+    "Options": ["Regular speed", "Half speed", "Third speed", "Quarter speed"]
+  }
+ ]
+}
