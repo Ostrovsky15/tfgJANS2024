@@ -1,6 +1,6 @@
 {
   "numberofMenus": 2,
-  "currentMenu": [
+  "menusArray": [
   {
     "menuTitle": "Select a song", 
     "Options": ["The Sound of Silence", "Knocking on Heavens Door", "Song C", "Song D", "Song E", "Song F"],
