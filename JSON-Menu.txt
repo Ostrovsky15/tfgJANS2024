@@ -5,7 +5,7 @@
     "menuTitle": "Select a song", 
     "Options": ["The Sound of Silence", "Knocking on Heavens Door", "Song C", "Song D", "Song E", "Song F"],
     "menuBoolIndex": 0,
-    "numberMenuOptions": 6,
+    "numberMenuOptions": 6
   },
   {
     "menuTitle": "Choose a speed",
