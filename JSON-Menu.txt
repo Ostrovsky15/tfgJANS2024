@@ -1,16 +1,17 @@
 {
+  "numberofMenus": 2,
   "currentMenu": [
   {
-    "numberMenuOptions": 6,
+    "menuTitle": "Select a song", 
+    "Options": ["The Sound of Silence", "Knocking on Heavens Door", "Song C", "Song D", "Song E", "Song F"],
     "menuBoolIndex": 0,
-    "menuTitle": "Select a song",
-    "Options": ["The Sound of Silence", "Knocking on Heavens Door", "Song C", "Song D", "Song E", "Song F"]
+    "numberMenuOptions": 6,
   },
   {
-    "numberMenuOptions": 4,
-    "menuBoolIndex": 1,
     "menuTitle": "Choose a speed",
-    "Options": ["Regular speed", "Half speed", "Third speed", "Quarter speed"]
+    "Options": ["Regular speed", "Half speed", "Third speed", "Quarter speed"],
+    "menuBoolIndex": 1,
+    "numberMenuOptions": 4    
   }
  ]
 }
