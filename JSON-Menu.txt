@@ -1,5 +1,4 @@
 {
-  "numberofMenus": 2,
   "menusArray": [
   {
     "menuTitle": "Pick a song:", 
