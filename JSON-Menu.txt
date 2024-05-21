@@ -5,13 +5,15 @@
     "menuTitle": "Pick a song:", 
     "Options": ["The Sound of Silence", "Knocking on Heavens Door", "Song C", "Song D", "Song E", "Song F"],
     "menuBoolIndex": 0,
-    "numberMenuOptions": 6
+    "numberMenuOptions": 6,
+    "backOption": false
   },
   {
     "menuTitle": "Pick a speed":,
     "Options": ["Regular speed", "1/2 speed", "1/3 speed", "1/4 speed", "Go back"],
     "menuBoolIndex": 1,
-    "numberMenuOptions": 5  
+    "numberMenuOptions": 5,
+    "backOption": true
   }
  ]
 }
